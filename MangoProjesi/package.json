@@ -1,0 +1,7 @@
+{
+  "name": "mango-stok",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node generate.js"
+  }
+}
